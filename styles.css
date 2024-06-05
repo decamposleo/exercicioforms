@@ -6,7 +6,7 @@ body, html {
 }
 
 .background {
-    background-image: url('https://github.com/decamposleo/exercicioforms/tree/main/aula'); /* Caminho para sua imagem de fundo */
+    background-image: url('Downloads/aula/imagem.jpg'); /* Caminho para sua imagem de fundo */
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
